@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(15, 23, 42);
+        color: rgb(148 163 184);
+}
+h1{
+    text-align: center;
+    color: #fff;
+}
+.headerh2{
+    text-align: center;
+    color: rgb(226 232 240 );
+}
+h3{
+    color: rgb(226 232 240);
+}
+
+.section{
+    max-width: 750px;
+    margin: 0 auto;
+
+}
+.courtOrder{
+    max-width: 750px;
+    margin: 0 auto;
+}
+.imoji{
+    font-size: 30px;
+    
+
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
