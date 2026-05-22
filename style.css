@@ -1,8 +1,31 @@
 body {
     background-color: rgb(15, 23, 42);
         color: rgb(148 163 184);
+        opacity: 0.7;
+        transition: opacity 0.4s ease-in-out;
 }
-h1{
+body:hover{
+    cursor: pointer;
+    opacity: 1;
+}
+
+.judApplication{
+    max-width: 750px;
+    margin: 0 auto;
+}
+.orAffidavit{
+    max-width: 750px;
+    margin: 0 auto;
+}
+.application{
+    max-width: 750px;
+}
+.biddResults{
+    max-width: 750px;
+    
+}
+
+h2{
     text-align: center;
     color: #fff;
 }
@@ -10,6 +33,7 @@ h1{
     text-align: center;
     color: rgb(226 232 240 );
 }
+
 h3{
     color: rgb(226 232 240);
 }
