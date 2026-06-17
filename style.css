@@ -9,6 +9,10 @@ body:hover{
     opacity: 1;
 }
 
+.hcdirection{
+    max-width: 750px;
+    margin: 0 auto;
+}
 .judApplication{
     max-width: 750px;
     margin: 0 auto;
